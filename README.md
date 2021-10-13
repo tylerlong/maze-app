@@ -1,2 +1,3 @@
-# maze-app
+# Maze
+
 A 3D Maze game.

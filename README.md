@@ -1,3 +1,3 @@
 # Maze
 
-A 3D Maze game.
+A 3D maze game.
